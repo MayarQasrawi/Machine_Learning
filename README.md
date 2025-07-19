@@ -18,10 +18,6 @@ This repository contains various machine learning implementations and experiment
   - Logistic Regression
   - Classification models
 
-- **Unsupervised Learning**:
-  - K-Means Clustering
-  - Data grouping and pattern discovery
-
 - **Data Analysis**:
   - Data preprocessing
   - Feature selection
